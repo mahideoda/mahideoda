@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Everyone !<br>🔭<br>🌱 Love creating things <br>⚡ Fun fact about me <br>     ~  <br>⚡⚡Let's collaborate & build something cool together !!!<br>
+Hello Everyone !<br>🔭<br>🌱 Love creating things <br> ~  <br>⚡⚡Let's collaborate & build something cool together !!!<br>
 
 
 ## 🌐 Socials:
