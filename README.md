@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Everyone !<br>🔭 I’m currently working on a flutter project <br>🌱 I’m currently learning advanced AI <br>⚡ Fun fact about me <br>     ~ I like trekking , baking & playing guitar .<br>⚡⚡Let's collaborate & build something cool together !!!<br>
+Hello Everyone !<br>🔭<br>🌱 Love creating things <br>⚡ Fun fact about me <br>     ~  <br>⚡⚡Let's collaborate & build something cool together !!!<br>
 
 
 ## 🌐 Socials:
